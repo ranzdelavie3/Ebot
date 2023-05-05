@@ -20,14 +20,14 @@ function getBotResponse(input) {
     else if (input == "apa tujuan belanda menjajah indonesia") {
         return "Tujuan awal Belanda datang ke Indonesia adalah untuk memperluas perdagangan dan memperoleh keuntungan dari rempah-rempah. Namun, seiring waktu, tujuan mereka bergeser menjadi menguasai wilayah Indonesia dan mengambil alih kekayaan alam dan sumber daya manusia yang ada di sana. Dengan menjajah Indonesia, Belanda dapat mengendalikan produksi dan perdagangan di wilayah tersebut serta memperoleh keuntungan ekonomi yang besar.";
     } 
-    else if (input == "") {
-        return "";
+    else if (input == "mengapa jepang menyerah tanpa syarat kepada sekutu") {
+        return "Jepang menyerah tanpa syarat kepada Sekutu karena sudah kalah di berbagai front.";
     } 
-    else if (input == "") {
-        return "";
+    else if (input == "mengapa para pemuda mengizinkan soekarno dan hatta dibawa kembali ke jakarta dari rengasdengklok") {
+        return "Para pemuda mengizinkan Sukarno dan Hatta dibawa kembali ke Jakarta karena peran Ahmad Subarjo.";
     } 
-    else if (input == "") {
-        return "";
+    else if (input == "mengapa berita proklamasi tidak diterima secara bersamaan di seluruh wilayah indonesia") {
+        return "Berita proklamasi tidak diterima secara bersamaan di seluruh wilayah Indonesia karena masih sederhananya teknologi komunikasi pada saat itu.";
     } 
     else if (input == "siapa yang membacakan teks proklamasi kemerdekaan indonesia") {
         return "yang membacakan teks proklamasi kemerdekaan Indonesia ialah Ir. Soekarno";
@@ -36,7 +36,7 @@ function getBotResponse(input) {
         return "Banyak tokoh yang terlibat dalam perjuangan kemerdekaan indonesia, Namun tokoh yang paling terkenal ialah Soekarno dan Mohammad Hatta, Yang memproklamasikan kemerdekaan indonesia dan memimpin perjuangan melawan penjajahan belanda";
     } 
     else if (input == "Siapa yang merancang bendera merah putih") {
-        return "Bendera merah putih dirancang oleh Bapak ibu Fatmawati, istridari presiden Soekarno";
+        return "Bendera merah putih dirancang oleh Bapak ibu Fatmawati, istri dari presiden Soekarno";
     } 
     else {
         return "yo ndak tau tanya kok tanya saya";
