@@ -32,10 +32,10 @@ function getBotResponse(input) {
     else if (input == "siapa yang membacakan teks proklamasi kemerdekaan indonesia") {
         return "yang membacakan teks proklamasi kemerdekaan indonesia ialah ir. Soekarno";
     } 
-    else if (input == "Siapa tokoh penting dalam perjuangan kemerdekaan indonesia") {
+    else if (input == "siapa tokoh penting dalam perjuangan kemerdekaan indonesia") {
         return "Banyak tokoh yang terlibat dalam perjuangan kemerdekaan indonesia, Namun tokoh yang paling terkenal ialah Soekarno dan Mohammad Hatta, Yang memproklamasikan kemerdekaan indonesia dan memimpin perjuangan melawan penjajahan belanda";
     } 
-    else if (input == "Siapa yang merancang bendera merah putih") {
+    else if (input == "siapa yang merancang bendera merah putih") {
         return "Bendera merah putih dirancang oleh Bapak ibu Fatmawati, istridari presiden Soekarno";
     } 
     else {
