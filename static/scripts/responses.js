@@ -2,6 +2,51 @@ function getBotResponse(input) {
 
     input = input.toLowerCase();
 
+    // Kata sambutan
+
+    if (input == "hai terrabot") {
+        return "Halo , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "halo terrabot") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hallo terrabot") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hai") {
+        return "Halo , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "halo") {
+        return "Halo , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hallo") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    if (input == "hei terrabot") {
+        return "Halo , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "helo terrabot") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hello terrabot") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hei") {
+        return "Halo , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "helo") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "hello") {
+        return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
+    }
+    else if (input == "assalamualaikum ukhti") {
+        return "Wa'alaikumsalam ya habibi"
+    }
+
+
+    // isi topik
+
     if (input == "ya ada yang ingin saya tanyakan") {
         return "Baik, Saya informasikan terlebih dahulu bahwa program TerraBot ini masih dalam tahap pengembangan, Jadi mohon maaf bila ada pertanyaan anda yang kami tidak mengerti dan tidak terjawab dikarenakan data yang kami peroleh masih terbatas.";
     } 
