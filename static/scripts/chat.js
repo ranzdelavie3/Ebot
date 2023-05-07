@@ -84,9 +84,7 @@ function sendButton() {
     getResponse();
 }
 
-function heartButton() {
-    buttonSendText("Heart clicked!")
-}
+
 
 // Press enter to send a message
 $("#textInput").keypress(function (e) {
