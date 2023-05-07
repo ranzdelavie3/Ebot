@@ -136,6 +136,6 @@ function getBotResponse(input) {
     }
     
     
-        return "yo ndak tau tanya kok tanya saya";
+        return "Jokowi : ya ndak tau tanya kok tanya saya";
 
 }
