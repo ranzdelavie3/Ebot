@@ -40,9 +40,6 @@ function getBotResponse(input) {
     else if (input == "hello") {
         return "Hai , Ada yang ingin kamu tanyakan seputar sejarah indonesia?"
     }
-    else if (input == "assalamualaikum ukhti") {
-        return "Wa'alaikumsalam ya habibi"
-    }
     else if (input == "terimakasih") {
         return "Sama-sama beb"
     }
@@ -126,16 +123,16 @@ function getBotResponse(input) {
         return "Romusha"
     }
     else if (input == "berapa jumlah bulu sayap burung garuda") {
-        return "17 gan, gk bisa nego"
+        return "Ada 17"
     }
     else if (input == "berapa jumlah bulu leher burung garuda") {
-        return "45 gan, gk bisa nego"
+        return "Ada 45"
     }
     else if (input == "apa tujuan awal belanda datang ke indonesia") {
-        return ""
+        return "Untuk mencari rempah rempah"
     }
     
     
-        return "Jokowi : ya ndak tau tanya kok tanya saya";
+        return "Mohon maaf, Saya tidak tahu apa yang anda tanya, Sebab data kami masih terbatas";
 
 }
