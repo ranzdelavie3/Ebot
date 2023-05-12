@@ -92,7 +92,7 @@ function getBotResponse(input) {
     else if (input == "siapa yang merancang bendera merah putih") {
         return "Bendera merah putih dirancang oleh Bapak ibu Fatmawati, istri dari presiden Soekarno"
     } 
-    else if (input == "siapa yang mencipatakan lagu indonesia raya") {
+    else if (input == "siapa yang menciptakan lagu indonesia raya") {
         return "W. R. Soepratman"
     }
     else if (input == "tanggal 10 november diperingati hari apa") {
